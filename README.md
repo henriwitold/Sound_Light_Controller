@@ -13,6 +13,7 @@ This project is a real-time sound and lighting control system designed for event
 *Figure 2: High-level data flow from MIDI pads and potentiometers to DMX and audio outputs.*
 
 <img width="635" alt="Electric Design" src="https://github.com/user-attachments/assets/8446315a-0c74-4386-aec7-cbe1ead2a3c1" />
+
 *Figure 3: Physical connections for DMX drivers, MIDI host, sensors, and power.*
 
 ---
